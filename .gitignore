@@ -115,3 +115,4 @@ src/aws_sso_login.sh
 src/hpo_vectorization.log
 config/hpomapper_config.yaml
 src/hpomapper.log
+db/hp.json
