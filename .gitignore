@@ -2,6 +2,8 @@ src/__pycache__/aws_helper.cpython-39.pyc
 src/__pycache__/hpo_vectorization.cpython-39.pyc
 src/__pycache__/hpomapper_main.cpython-39.pyc
 data/randome_asd_notes_cleaned4.csv
+data/
+data/notes/
 data/notes/.DS_Store
 data/notes/extracted_notes_ind_mrn/.DS_Store
 data/notes/extracted_notes_ind_mrn/M672065/M672065_1X_OP_Gastrointestinal_Note_352.txt
@@ -116,3 +118,5 @@ src/hpo_vectorization.log
 config/hpomapper_config.yaml
 src/hpomapper.log
 db/hp.json
+db/G2GHPO_metadata_10k.csv
+db/G2GHPO_metadata_10k.npy
