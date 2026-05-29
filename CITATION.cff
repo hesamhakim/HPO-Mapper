@@ -1,0 +1,25 @@
+      cff-version: 1.2.0
+      message: "If you use this software, please cite it as below."
+      title: "HPO Mapper: Automated Extraction of Human Phenotype Ontology Terms from Clinical Documentation"
+      abstract: >-
+        A HIPAA-compliant clinical tool that automatically extracts Human Phenotype Ontology (HPO) terms from unstructured medical documentation using large language models and vector-based semantic matching for standardized genetic analysis. Supports rare-disease variant prioritization and clinical decision support workflows.
+      authors:
+        - family-names: Hakimjavadi
+          given-names: Hesamedin
+          orcid: "https://orcid.org/0000-0003-0587-1342"
+          affiliation: "Medical College of Wisconsin"
+      version: 0.1.0
+      date-released: "2026-05-29"
+      license: MIT
+      type: software
+      repository-code: "https://github.com/hesamhakim/HPO-Mapper"
+      url: "https://github.com/hesamhakim/HPO-Mapper"
+      keywords:
+        - bioinformatics
+- clinical-informatics
+- human-phenotype-ontology
+- hpo
+- large-language-models
+- clinical-nlp
+- rare-disease
+- variant-prioritization
